@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Prashanth/Desktop/My Selenium/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Prashanth/Desktop/My Selenium/commons-io-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Prashanth/Desktop/My Selenium/commons-io-2.8.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Prashanth/Desktop/My Selenium/commons-io-2.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Prashanth/Desktop/My Selenium/commons-io-2.8.0-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Prashanth/Desktop/My Selenium/commons-io-2.8.0-test-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

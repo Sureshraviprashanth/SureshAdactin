@@ -1,0 +1,10 @@
+package com.adactin.helper;
+
+import java.io.File;
+import java.io.FileInputStream;
+
+public class Configuration_Reader throws Throwable {
+	File f = new File("C:\\Users\\Suresh Prashanth\\eclipse-workspace\\FinalProject\\src\\test\\java\\com\\adactin\\properties\\Configuration_Properties");
+	FileInputStream fis = new FileInputStream(f);
+
+}
